@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name" : "Minerva",
+    "version" : "1.0",
+    "description" : "Minerva is the virtual tech forum of IGDTUW",
+    "icons": { 
+        "16": "minerva.png",
+        "48": "minerva.png",
+        "128": "minerva.png" 
+    },
+    "action": {
+        "default_icon": "minerva.png",
+        "default_popup": "popup.html"
+    }
+}

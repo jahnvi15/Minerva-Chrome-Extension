@@ -1,0 +1,28 @@
+body{
+    background-color: #e9d1f6;
+    font-family: 'Open Sans', sans-serif;
+}
+.img{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+.h1{
+    font-size: 5px;
+    font-weight: bold;
+    color: rgb(4, 17, 39);
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+    padding-left: 60px;
+}
+.p{
+    font-size: 100px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+    padding-left: 60px;
+}
