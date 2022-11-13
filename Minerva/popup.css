@@ -3,8 +3,8 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 .img{
-    width: 50px;
-    height: 50px;
+    width: 5px;
+    height: 5px;
     position: absolute;
     top: 0;
     left: 0;
@@ -13,15 +13,16 @@ body{
 .h1{
     font-size: 5px;
     font-weight: bold;
-    color: rgb(4, 17, 39);
+    color: rgb(15, 51, 112);
     margin: 0;
     padding: 0;
     padding-top: 10px;
     padding-left: 60px;
+    text-align: center ;
 }
 .p{
     font-size: 100px;
-    color: #000;
+    color: rgb(16, 21, 77);
     margin: 0;
     padding: 0;
     padding-left: 60px;
